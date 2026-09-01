@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Hello 인선미 👋")
+st.title("안녕 인선미 👋")
 st.markdown(
     """ 
     This is a playground for you to try Streamlit and have fun. 
